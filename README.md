@@ -1,6 +1,6 @@
 # Cisco Network Configuration
 
-![CiscoNetLab](https://github.com/MohammadmahdiAhmadi/CiscoNetLab/blob/main/Screenshots/EntireProject.png)
+![CiscoNetLab](Screenshots/EntireProject.png)
 
 This repository contains a Packet Tracer project that demonstrates the configuration of various interconnected networks, including Internet Core, USA, Russia, and Isfahan University of Technology (IUT) networks. The project showcases different networking protocols, devices, and services implemented within each network. Below is an overview of each network's architecture and configuration.
 
